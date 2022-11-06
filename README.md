@@ -4,7 +4,7 @@ The bank already has some data on customers’ credit worthiness.
 Your report will be considered when building a credit score for a potential customer. A credit score is used to evaluate the ability of a potential borrower to repay their loan.<br>
 
 <h2>Instructions for completing the project</h2>
-<h2>Step 1. Open the data file</h2><a href="https://github.com/UltraXman2022/Data-Preprocessing/blob/main/credit_scoring_eng.csv">/datasets/credit_scoring_eng.csv</a> and have a look at the general information
+<h2>Step 1. Open the data file</h2>credit_scoring_eng.csv and have a look at the general information
 <h2>Step 2. Preprocess the data:</h2>
 <ol><li>Identify and fill in missing values</li>
 <li>Replace the real number data type with the integer type</li>
