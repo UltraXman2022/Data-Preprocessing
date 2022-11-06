@@ -21,13 +21,15 @@ Step 2. Preprocess the data:<br>
 <li>Which dictionaries you've selected for this dataset and why</li></ol>
   
 The data may contain artifacts, or values that don't correspond to reality (for instance, a negative number of days employed). This kind of thing happens when you're working with real data. You need to describe the possible reasons such data may have turned up and process it.
-Step 3. Answer these questions:
-Is there a connection between having kids and repaying a loan on time?
-Is there a connection between marital status and repaying a loan on time?
-Is there a connection between income level and repaying a loan on time?
-How do different loan purposes affect on-time loan repayment?
-Interpret your answers. Explain what the results you obtained mean.
-Step 4. Write an overall conclusion.
+
+<h2>Step 3. Answer these questions:</h2>
+<ol><li>Is there a connection between having kids and repaying a loan on time?</li>
+<li>Is there a connection between marital status and repaying a loan on time?</li>
+<li>Is there a connection between income level and repaying a loan on time?</li>
+<li>How do different loan purposes affect on-time loan repayment?</li>
+<li>Interpret your answers. Explain what the results you obtained mean.</li></ol>
+  
+<h2>Step 4. Write an overall conclusion.</h2>
 Format:
 Complete the project in the Jupyter Notebook (it will open when you click Next). Write code in code cells and notes with explanations and interpretations in markdown cells. Use formatting and headings.
 Description of the data
