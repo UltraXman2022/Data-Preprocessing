@@ -6,18 +6,20 @@ Your report will be considered when building a credit score for a potential cust
 <h2>Instructions for completing the project</h2>
 Step 1. Open the data file /datasets/credit_scoring_eng.csv and have a look at the general information.<br>
 Step 2. Preprocess the data:<br>
-Identify and fill in missing values
-Replace the real number data type with the integer type
-Delete duplicate data
-Categorize the data
-Be sure to explain:
-Which missing values you identified
-Possible reasons these missing values were present
-Which method you used to fill in missing values
-Which method you used to find and delete duplicate data and why
-Possible reasons why duplicate data was present
-Which method you used to change the data type and why
-Which dictionaries you've selected for this dataset and why
+<ol><li>Identify and fill in missing values</li>
+<li>Replace the real number data type with the integer type</li>
+<li>Delete duplicate data</li>
+<li>Categorize the data</li></ol>
+  
+<h2>Be sure to explain:</h2>
+<ol><li>Which missing values you identified</li>
+<li>Possible reasons these missing values were present</li>
+<li>Which method you used to fill in missing values</li>
+<li>Which method you used to find and delete duplicate data and why</li>
+<li>Possible reasons why duplicate data was present</li>
+<li>Which method you used to change the data type and why</li>
+<li>Which dictionaries you've selected for this dataset and why</li></ol>
+  
 The data may contain artifacts, or values that don't correspond to reality (for instance, a negative number of days employed). This kind of thing happens when you're working with real data. You need to describe the possible reasons such data may have turned up and process it.
 Step 3. Answer these questions:
 Is there a connection between having kids and repaying a loan on time?
