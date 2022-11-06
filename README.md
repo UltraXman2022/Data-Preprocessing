@@ -29,8 +29,8 @@ The data may contain artifacts, or values that don't correspond to reality (for 
 <li>How do different loan purposes affect on-time loan repayment?</li>
 <li>Interpret your answers. Explain what the results you obtained mean.</li></ol>
   
-<h2>Step 4. Write an overall conclusion.</h2><br>
-<h3>Format:</h3><br>
+<h2>Step 4. Write an overall conclusion.</h2>
+<h3>Format:</h3>
 Complete the project in the Jupyter Notebook (it will open when you click Next). Write code in code cells and notes with explanations and interpretations in markdown cells. Use formatting and headings.<br>
 
 <b>Description of the data<b><br>
